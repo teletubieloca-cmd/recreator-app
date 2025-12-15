@@ -1,0 +1,5 @@
+{
+  "name": "Athena's Forge - Character Recreator",
+  "description": "Recreate and edit character images in high quality using Gemini 2.5 Flash Image. Remove backgrounds, enhance details, and modify styles with text prompts.",
+  "requestFramePermissions": []
+}
